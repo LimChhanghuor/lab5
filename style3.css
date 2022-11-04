@@ -1,0 +1,10 @@
+.container{
+    color: white;
+
+    background-color:#333 ;
+}
+div div{
+  display: inline-block; 
+  color: white; 
+  padding: 14px;
+}
